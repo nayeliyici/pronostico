@@ -29,7 +29,7 @@ function seleccionarSemana() {
         inputsMeteorologicos.appendChild(div);
     }
 }
-
+/*ejemplo*/
 function calcularEstadisticas() {
     const inputsTemperatura = document.querySelectorAll("#datos-meteorologicos input");
     const temperaturas = [];
